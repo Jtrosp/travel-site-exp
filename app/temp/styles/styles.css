@@ -447,6 +447,7 @@ a {
 
 .large-hero__image {
   display: block;
+  width: 100%;
 }
 
 .large-hero__text-content {
@@ -522,7 +523,7 @@ a {
 }
 
 .btn--orange {
-  background-color: #94090d;
+  background-color: #d4953f;
 }
 
 .btn--large {
@@ -1391,7 +1392,7 @@ a {
 
 .modal__description {
   text-align: left;
-  font-size: 1.3rem;
+  font-size: 1rem;
   font-weight: 300;
   line-height: 1.65;
 }
